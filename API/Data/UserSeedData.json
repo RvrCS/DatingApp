@@ -108,7 +108,7 @@
         "Country": "Wallis and Futuna Islands",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/male/44.jpg",
+                "Url": "https://randomuser.me/api/portraits/men/44.jpg",
                 "IsMain": true
             }
         ]
@@ -127,7 +127,7 @@
         "Country": "Australia",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/male/65.jpg",
+                "Url": "https://randomuser.me/api/portraits/men/65.jpg",
                 "IsMain": true
             }
         ]
@@ -146,7 +146,7 @@
         "Country": "Northern Mariana Islands",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/male/37.jpg",
+                "Url": "https://randomuser.me/api/portraits/men/37.jpg",
                 "IsMain": true
             }
         ]
@@ -165,7 +165,7 @@
         "Country": "Madagascar",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/male/38.jpg",
+                "Url": "https://randomuser.me/api/portraits/men/38.jpg",
                 "IsMain": true
             }
         ]
@@ -184,7 +184,7 @@
         "Country": "Mayotte",
         "Photos": [
             {
-                "Url": "https://randomuser.me/api/portraits/male/47.jpg",
+                "Url": "https://randomuser.me/api/portraits/men/47.jpg",
                 "IsMain": true
             }
         ]
